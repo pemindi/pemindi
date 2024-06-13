@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm pemindi</h1>
-<h3 align="center">I am currently pursuing my degree in IT with a specialization in Data Science at SLIIT. My interests lie in uncovering insights from data, building machine learning models, and developing intelligent applications. I love experimenting with new tools and technologies, and I am always eager to learn and collaborate.</h3>
+<h3 align="center">🎓 3rd Year IT-Data Science Student at SLIIT 
+  🌍 Passionate about data science, machine learning, and AI 
+  💻 Exploring new technologies and open source projects </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pemindi&label=Profile%20views&color=0e75b6&style=flat" alt="pemindi" /> </p>
 
