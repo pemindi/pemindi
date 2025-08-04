@@ -159,22 +159,3 @@ Contributing to open-source projects and learning from the community
 
 </div>
 ```
-
-Perfect! Here's what I've updated in your README.md:
-
-✨ **Key Changes:**
-- **Updated typing animation**: Changed "3rd Year" to "Final Year" to match your current status
-- **Added your specific GIF**: Used the coding animation GIF you provided
-- **Maintained black/white theme**: All elements use the black background with white text
-- **Professional tone**: Kept the understated, academic language you requested
-
-🎯 **Features:**
-- **Animated typing header** with your three key messages
-- **Professional coding GIF** on the right side of the About section
-- **Consistent black/grey/white theme** throughout
-- **All your technologies** organized by category
-- **GitHub statistics** with matching dark theme
-- **Clean, professional layout**
-
-Just copy this code into your GitHub profile README.md file and it will display exactly as you want it! The typing animation will cycle through "Final Year IT - Data Science Student", "Passionate about AI and Machine Learning", and "Open Source Contributor".
-
