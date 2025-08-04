@@ -10,13 +10,12 @@
 
 ## 🎓 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUyaHd1NTVnc2liNDI4ZHJzYmFvdWt0YjJ2dHhlcWcwNXgwYm8wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif/>
 
-- 🎓 **3rd Year IT - Data Science Student** at **SLIIT**
+- 🎓 **Final Year IT - Data Science Student** at **SLIIT**
 - 🧠 Passionate about **Data Science**, **Machine Learning**, and **AI**
 - 🔬 Interested in research and further study, especially in AI and related fields
 - 💻 Exploring new technologies and contributing to open-source projects
-- 🌱 Currently working on applications of AI in astronomy for academic research
 
 ---
 
