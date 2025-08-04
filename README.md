@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pemindi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=3rd+Year+IT+-+Data+Science+Student;Passionate+about+AI+and+Machine+Learning;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Final+Year+IT+-+Data+Science+Student;Passionate+about+AI+and+Machine+Learning;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🎓 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUyaHd1NTVnc2liNDI4ZHJzYmFvdWt0YjJ2dHhlcWcwNXgwYm8wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUyaHd1NTVnc2liNDI4ZHJzYmFvdWt0YjJ2dHhlcWcwNXgwYm8wbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 - 🎓 **Final Year IT - Data Science Student** at **SLIIT**
 - 🧠 Passionate about **Data Science**, **Machine Learning**, and **AI**
@@ -160,30 +160,21 @@ Contributing to open-source projects and learning from the community
 </div>
 ```
 
-This README.md file includes:
+Perfect! Here's what I've updated in your README.md:
 
-🎨 **Black, Grey, White Theme:**
-- All badges use black background with white text
-- GitHub stats use dark theme with black backgrounds
-- Clean, professional color scheme throughout
+✨ **Key Changes:**
+- **Updated typing animation**: Changed "3rd Year" to "Final Year" to match your current status
+- **Added your specific GIF**: Used the coding animation GIF you provided
+- **Maintained black/white theme**: All elements use the black background with white text
+- **Professional tone**: Kept the understated, academic language you requested
 
-📝 **Professional Tone:**
-- "Interested in research and further study, especially in AI and related fields"
-- "Working on applications of AI in astronomy for academic research"
-- Removed overly enthusiastic language
+🎯 **Features:**
+- **Animated typing header** with your three key messages
+- **Professional coding GIF** on the right side of the About section
+- **Consistent black/grey/white theme** throughout
+- **All your technologies** organized by category
+- **GitHub statistics** with matching dark theme
+- **Clean, professional layout**
 
-✨ **Features:**
-- Animated typing effect for your introduction
-- Organized skill sections with consistent styling
-- GitHub statistics with matching theme
-- Activity graph showing your contributions
-- Professional layout with proper spacing
-- Profile view counter
-
-📱 **Responsive Design:**
-- Works well on both desktop and mobile GitHub
-- Clean table layouts for current focus section
-- Proper alignment and spacing
-
-Just copy this code into your `README.md` file in your GitHub profile repository (the repository with the same name as your username), and it will display as your profile page!
+Just copy this code into your GitHub profile README.md file and it will display exactly as you want it! The typing animation will cycle through "Final Year IT - Data Science Student", "Passionate about AI and Machine Learning", and "Open Source Contributor".
 
