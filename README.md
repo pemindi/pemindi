@@ -45,26 +45,6 @@
 
 ---
 
-### 🧪 Project Showcase
-
-Here are a few highlights of what I’ve been working on:
-
-#### 🔍 [Object Detection with YOLOv5 + OpenCV](https://github.com/your-username/Object-Detection-with-YOLOv5-and-OpenCV)
-- 🎥 Real-time object detection in bedroom scenes using YOLOv5  
-- 🛏️ Classified objects like beds, lighting, mirrors, and plants  
-- 🧰 Tools: Python, PyTorch, OpenCV, LabelImg
-
-<img src="https://media.giphy.com/media/FZk8WAwRg1L6Nw6e6u/giphy.gif" width="400"/>
-
-#### 🥘 [CookMate – Cooking Skill Sharing App](https://github.com/your-username/CookMate)
-- 🧑‍🍳 Share recipes, like/comment, follow cooks, and manage shopping lists  
-- 🔔 Real-time notifications and dynamic search  
-- ⚙️ Built for PAF module as Y3S2 group project
-
-<img src="https://media.giphy.com/media/3o7aCSDsneE3HyAD8Y/giphy.gif" width="400"/>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -92,4 +72,3 @@ Here are a few highlights of what I’ve been working on:
 ---
 
 Thanks for visiting! Let's connect and collaborate on exciting tech 🚀✨
-
